@@ -12,7 +12,9 @@ cask "alfred"
 cask "docker"
 cask "google-chrome"
 cask "iterm2"
+cask "postman"
 cask "rectangle"
+cask "sourcetree"
 cask "visual-studio-code"
 
 mas "Xcode", id: 497799835
